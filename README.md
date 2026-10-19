@@ -1,0 +1,1 @@
+# pjok-qr-scanner
